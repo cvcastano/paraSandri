@@ -1,0 +1,48 @@
+body{
+  background-color: #571357;
+  margin: 0;
+}
+
+textarea {
+  width: 75vw;
+  height: 30vh;
+  font-size: 22px;
+  margin-left: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: "Lobster Two", cursive;
+  outline: none;
+  cursor: pointer;
+  border: 3px dotted #61DAFB;
+  outline: none;
+}
+
+.display {
+  width: 75vw;
+  font-size: 30px;
+  padding-left: 10px;
+  font-family: "Lobster Two", cursive;
+  color: white;
+}
+.texto {
+  font-family: "Lobster Two", cursive;
+  color: #61DAFB;
+  padding-left: 10px;
+}
+
+.App-logo {
+  height: 40px;
+  pointer-events: none;
+  animation: App-logo-spin infinite 20s linear;
+  display: inline-block;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
