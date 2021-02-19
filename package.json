@@ -1,5 +1,6 @@
 {
-  "name": "react-template",
+  "homepage": "./",
+  "name": "react-template", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
